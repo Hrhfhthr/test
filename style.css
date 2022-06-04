@@ -2,3 +2,10 @@ h1{
 	color:red;
 	background-color:black;
 }
+html{
+	background-color:green;
+}
+img{
+        border-radius:20px;
+	width: 120px;
+}
